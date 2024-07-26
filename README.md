@@ -30,3 +30,7 @@ María mira el código legado y hace una mueca de asombro. No está acostumbrada
  - Mejorar la clase GildedRose para tener código limpio, legible y extensible.
 
 Fuente original: https://github.com/dshefman/GildedRoseAS3
+
+## Prueba de test unitarios ##
+
+![alt text](image.png)
